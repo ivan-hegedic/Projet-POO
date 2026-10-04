@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fragment_shader.glsl</file>
+        <file>vertex_shader.glsl</file>
+        <file>cat.jpeg</file>
+        <file>grass_above.jpg</file>
+        <file>grass_below.jpg</file>
+        <file>grass_lateral.jpg</file>
+        <file>tnt.jpg</file>
+        <file>tnt_above.jpg</file>
+        <file>tnt_belo.png</file>
+        <file>bedrock.jpg</file>
+        <file>lucky_block.png</file>
+        <file>Empty.png</file>
+        <file>CodeCogsEqn.png</file>
+        <file>lucky_block.jpeg</file>
+    </qresource>
+</RCC>
